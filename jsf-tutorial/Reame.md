@@ -213,7 +213,7 @@ The current Course is based on JSF 2.2; But also need to work on JSF 2.3
 |-------------|--------------|----------------|-------------------|--------------|--------------|----------------------|---------------|--------------|
 | JSF 2.2 | 2013 | Tomcat 7.0, 8.0 | Java EE 7 | Java 7 | Servlet 3.1 | javax.servlet | javax.faces | HTML5 support, file upload, XSS protection |
 | JSF 2.3 | 2017 | Tomcat 8.5, 9.0 | Java EE 8 | Java 8 | Servlet 4.0 | javax.servlet | javax.faces | CDI integration, web socket support |
-|-------------|--------------|----------------|-------------------|--------------|--------------|----------------------|---------------|--------------|
+
 
 Note: 
  JSF 2.3 | 2017 | Tomcat 8.5, 9.0 | Java EE 8 | Java 8 | Servlet 4.0 | javax.servlet | javax.faces | CDI integration, web socket support |
