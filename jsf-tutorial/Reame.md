@@ -203,3 +203,17 @@ Here's the comprehensive table with Tomcat version placed before the Java EE/Jak
 - **Java Version**: Tomcat version must support the required Java version
 
 This comprehensive compatibility matrix helps developers choose the right combination of JSF, Tomcat, and Servlet versions for their applications, especially important during migration from Java EE to Jakarta EE.
+
+
+Note: 
+
+The current Course is based on JSF 2.2; But also need to work on JSF 2.3
+
+| JSF Version | Release Date | Tomcat Version | Java EE/Jakarta EE | Java Version | Servlet Spec | Servlet API Namespace | JSF Namespace | Key Features |
+|-------------|--------------|----------------|-------------------|--------------|--------------|----------------------|---------------|--------------|
+| JSF 2.2 | 2013 | Tomcat 7.0, 8.0 | Java EE 7 | Java 7 | Servlet 3.1 | javax.servlet | javax.faces | HTML5 support, file upload, XSS protection |
+| JSF 2.3 | 2017 | Tomcat 8.5, 9.0 | Java EE 8 | Java 8 | Servlet 4.0 | javax.servlet | javax.faces | CDI integration, web socket support |
+|-------------|--------------|----------------|-------------------|--------------|--------------|----------------------|---------------|--------------|
+
+Note: 
+ JSF 2.3 | 2017 | Tomcat 8.5, 9.0 | Java EE 8 | Java 8 | Servlet 4.0 | javax.servlet | javax.faces | CDI integration, web socket support |
